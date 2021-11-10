@@ -57,14 +57,15 @@ Se usó [Git](https://git-scm.com/) para el versionado. Dentro de los commits se
 
 ## Autores ✒️
 
-* **David Guzmán Leyva** - *A01706417* - *Participante*
-* **Enrique Santos Fraire** - *A01705746* - *Líder*
-* **Jesús Uriel Sánchez de la Vega** - *A01706515* - *Supervisor*
+* **David Guzmán Leyva** - *A01706417* - *Colaborador*
+* **Enrique Santos Fraire** - *A01705746* - *Colaborador*
+* **Diego Emilio Barrera Hernandez** - *A01366802* - *Líder*
 
 _Profesor_
-* **Benjamín Valdés Aguirre**
+* **Pedro Oscar Pérez Murueta**
+* **Luis Raul Castillo**
 
-[Contribuyentes](https://github.com/A01705746/Herramientas_Computacionales_Equipo/contributors)
+[Contribuyentes](https://github.com/Davidguzley/Sistemancos/contributors)
 
 ## Reflexión 🎁
 
