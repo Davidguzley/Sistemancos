@@ -1,6 +1,6 @@
 # MOVILIDAD URBANA
 
-Dentro de este repositorio de equipo se encuentra un programa de procesamiento de imagenes hecho en Python, por el que mediante el uso de matrices se le aplicarán disitnos filtros para manipular una imágen y analizar su comportamiento.
+Dentro de este repositorio de equipo se encuentra en la carpeta "ModeloPyIBM" un modelo de sistemas multiagentes que optimiza el flujo vehicular de un cruce de cuatro calles, asi como un proyecto de unity dentro de la carpeta "Movilidad" listo para simular el modelo por mediante la conexion de un servidor IBM.
 
 ## Comenzando 🚀
 
