@@ -49,7 +49,7 @@ Se usó [Git](https://git-scm.com/) para el versionado. Dentro de los commits se
 * **Enrique Santos Fraire** - *A01705746* - *Colaborador*
 * **Diego Emilio Barrera Hernandez** - *A01366802* - *Líder*
 
-_Profesor_
+## Profesores 👨‍🏫
 * **Pedro Oscar Pérez Murueta**
 * **Luis Raul Castillo**
 
