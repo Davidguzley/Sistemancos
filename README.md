@@ -9,7 +9,8 @@ Para correr el programa es necesario lo siguiente:
 ### Pre-requisitos 📋
 
 _Tener la versión 3.9 o superior de Python_<br>
-_Tener Git instalado en caso de querer clonar el repositorio_
+_Tener Git instalado en caso de querer clonar el repositorio_<br>
+_Tener una cuenta de IBM Cloud_
 
 ### Instalación 🔧
 
@@ -19,32 +20,22 @@ _Clonar el repositorio o descargar la carpeta proyecto_
 git clone 'link del repositorio'
 ```
 
-_Instalar las librerías necesarias por medio de pip install_
-
-```
-pip install numpy
-pip install opencv-python
-pip install argparse
-pip install matplotlib.pyplot
-```
+_Subir la carpeta ModeloPyIBM a una Aplicacion Python en la Nube de IBM _
 
 ## Corrida 📦
 
-_Dependiendo de donde se corra el programa se utiliza el botón run o desde consola:_
+_Tener en ejecución la Aplicacion Python en la Nube de IBM y por ultimo correr en unity el proyecto Movilidad:_
 
-```
-python main.py
-```
+## Consideraciones:
 
-## Consideraciones  :pencil2:
-
-_- Las imagenes deben estar en la misma carpeta que los programas del proyecto en caso de querer agregar más_ <br>
-_- Al momento de poner la imagen en el programa debe estar escrita con extensión_
+_- Si no sabes hacer un despliegue de Aplicaciones Python en la Nube de IBM favor de entrar al enlace:_<br>
+* [Guia](https://drive.google.com/file/d/1p2vqzcIe9qo0zbRQEY8wSf5iOiXtgi7w/view?usp=sharing)
 
 ## Construido con 🛠️
 
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de texto
 * [Python](https://www.python.org/) - Lenguaje
+* [Unity](https://unity.com/es) - Motor grafico
 
 ## Referencias 📖
 
