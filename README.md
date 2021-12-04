@@ -24,8 +24,8 @@ descargar el zip directamente
 
 _Subir la carpeta ModeloPyIBM a una Aplicacion Python en la Nube de IBM_
 
-* [Manual de instalación](https://www.google.com)
-* [Guía de instalación en video](https://www.google.com)
+* [Manual de instalación](https://drive.google.com/file/d/1HeZd29NeCRwbLcxfFKyYHf71Xi64YooB/view?usp=sharing)
+* [Guía de instalación en video](https://youtu.be/MrlUuFA3R2w)
 
 ## Corrida 📦
 
