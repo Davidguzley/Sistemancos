@@ -53,8 +53,6 @@ Se usó [Git](https://git-scm.com/) para el versionado. Dentro de los commits se
 * **Pedro Oscar Pérez Murueta**
 * **Luis Raul Castillo**
 
-[Contribuyentes](https://github.com/Davidguzley/Sistemancos/contributors)
-
 
 ---
 Plantilla de README.md por [Villanuevand](https://github.com/Villanuevand) 😊
