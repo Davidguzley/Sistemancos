@@ -18,9 +18,11 @@ _Clonar el repositorio o descargar la carpeta proyecto_
 
 ```
 git clone 'link del repositorio'
+             o
+descargar el zip directamente
 ```
 
-_Subir la carpeta ModeloPyIBM a una Aplicacion Python en la Nube de IBM _
+_Subir la carpeta ModeloPyIBM a una Aplicacion Python en la Nube de IBM_
 
 ## Corrida 📦
 
