@@ -24,25 +24,20 @@ _Subir la carpeta ModeloPyIBM a una Aplicacion Python en la Nube de IBM _
 
 ## Corrida 📦
 
-_Tener en ejecución la Aplicacion Python en la Nube de IBM y por ultimo correr en unity el proyecto Movilidad:_
+_Tener en ejecución la Aplicacion Python en la Nube de IBM y por ultimo correr en unity el proyecto Movilidad_
 
 ## Consideraciones:
 
 _- Si no sabes hacer un despliegue de Aplicaciones Python en la Nube de IBM favor de entrar al enlace:_<br>
 * [Guia](https://drive.google.com/file/d/1p2vqzcIe9qo0zbRQEY8wSf5iOiXtgi7w/view?usp=sharing)
 
-_- En caso de querer volver a correr la simulacion del modelo en Unity favor de reiniciar el servidor primero_
+_- En caso de querer volver a correr la simulacion del modelo en Unity favor de reiniciar el servidor primero._
 
 ## Construido con 🛠️
 
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de texto
 * [Python](https://www.python.org/) - Lenguaje
 * [Unity](https://unity.com/es) - Motor grafico
-
-## Referencias 📖
-
-[Convolution Examples](https://aishack.in/tutorials/image-convolution-examples/) <br>
-[Code from Abhisek Jana](https://github.com/adeveloperdiary/blog/tree/master/Computer_Vision/Sobel_Edge_Detection)
 
 ## Versionado 📌
 
@@ -59,10 +54,6 @@ _Profesor_
 * **Luis Raul Castillo**
 
 [Contribuyentes](https://github.com/Davidguzley/Sistemancos/contributors)
-
-## Reflexión 🎁
-
-Con esta semana tec se buscó fomentar el trabajo en equipo para implementar el manejo de versiones desde un repositorio remoto a través de git. Esto para lograr un flujo de trabajo más eficiente y productivo en futuros proyectos, con mayor organización y distribución de actividades para lograr buenas prácticas de codificación, siguiendo los estándares internacionales y normas adecuadas. Además de entender cómo se comportan las imágenes en la computadora y saber manipularlas por medio de filtros y matrices.
 
 
 ---
