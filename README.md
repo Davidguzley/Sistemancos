@@ -24,6 +24,9 @@ descargar el zip directamente
 
 _Subir la carpeta ModeloPyIBM a una Aplicacion Python en la Nube de IBM_
 
+* [Manual de instalación](https://www.google.com)
+* [Guía de instalación en video](https://www.google.com)
+
 ## Corrida 📦
 
 _Tener en ejecución la Aplicacion Python en la Nube de IBM y por ultimo correr en unity el proyecto Movilidad_
