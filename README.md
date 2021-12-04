@@ -9,7 +9,7 @@ Para correr el programa es necesario lo siguiente:
 ### Pre-requisitos 📋
 
 _Tener la versión 3.9 o superior de Python_<br>
-_Tener Git instalado en caso de querer clonar el repositorio_<br>
+_Tener Unity version 2020.3.21f1_<br>
 _Tener una cuenta de IBM Cloud_
 
 ### Instalación 🔧
@@ -30,6 +30,8 @@ _Tener en ejecución la Aplicacion Python en la Nube de IBM y por ultimo correr 
 
 _- Si no sabes hacer un despliegue de Aplicaciones Python en la Nube de IBM favor de entrar al enlace:_<br>
 * [Guia](https://drive.google.com/file/d/1p2vqzcIe9qo0zbRQEY8wSf5iOiXtgi7w/view?usp=sharing)
+
+_- En caso de querer volver a correr la simulacion del modelo en Unity favor de reiniciar el servidor primero_
 
 ## Construido con 🛠️
 
